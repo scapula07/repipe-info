@@ -3,7 +3,7 @@ import Header from './components/header'
 import hero from "./assets/repipeHero.png"
 import infotoast from "./assets/toast.png"
 import about from "./assets/repipeAbout.png"
-import service from "./assets/repipeService.png"
+import service from "./assets/repipeservice.png"
 import block from "./assets/serviceblock.png"
 import testimonial from "./assets/testimonial.png"
 import footer from "./assets/footerRepipe.png"
